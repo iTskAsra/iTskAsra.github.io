@@ -7,25 +7,26 @@ version: 2
 
 # Personal info
 name: Kasra Amani
-title: Undergrad Student - Computer Engineering
+title: Undergraduate Student - Computer Engineering
 email: kasraamani2001@gmail.com
 website: www.kasraamani.me
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links (You can update or remove these as needed)
 twitter_username: facespics
 github_username:  sproogen
-instagram_username: jameswgrant
 linkedin_username: jameswgrant
-youtube_username: globalmtb
 
 # Additional icon links (You can update or remove these as needed)
 additional_links:
 - title: itsgoingto.be
   icon: fas fa-globe
   url: https://www.itsgoingto.be
+- title: mohammadrezadaviran.me
+  icon: fas fa-globe
+  url: https://www.mohammadrezadaviran.me
 
 # About Section
 about_profile_image: images/profile.jpg
@@ -69,12 +70,12 @@ content:
     content:
       - layout: left
         title: Sharif University of Technology
-        caption: (Your start year) - (Your expected graduation year)
+        caption: 2019 - 2024
         sub_title: BSc in Computer Engineering (CE)
         description: Pursuing a BSc in Computer Engineering at Sharif University of Technology, one of the premier institutions in the region. Achieved a commendable GPA of 15.87/20, reflecting dedication and academic excellence.
       - layout: left
         title: Shahid Ejeyi Highschool, Organization of Exceptional Talents
-        caption: (Your start year) - (Your graduation year)
+        caption: 2016 - 2019
         sub_title: High School Diploma
         description: Completed high school education at Shahid Ejeyi Highschool under the Organization of Exceptional Talents. Graduated with an outstanding GPA of 18.8/20, showcasing academic prowess and commitment.
 
@@ -82,7 +83,6 @@ content:
     layout: text
     content: | 
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
       - Gaming, with a particular fondness for Counter Strike
       - Violin, with 14 years of experience and a keen interest in Baroque era music
       - Pursuing a Private Piloting License (PPL) and looking forward to starting ground classes
