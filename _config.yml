@@ -21,10 +21,7 @@ linkedin_username: jameswgrant
 
 # Additional icon links (You can update or remove these as needed)
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
-- title: mohammadrezadaviran.me
+- title: dasham Daviran
   icon: fas fa-globe
   url: https://www.mohammadrezadaviran.me
 
