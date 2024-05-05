@@ -60,7 +60,7 @@ content:
       - layout: left
         title: Sharif University of Technology
         role: Intern
-        description: Participated in an internship focused on leveraging the latest advancements in formal methods. The primary objective was to enhance and refine the Rebeca language, which is instrumental in verifying Java code and ensuring program behavior aligns with specific conditions.
+        description: I started my work in Prof. Ansari's Cyber-Physical Lab and was first working on a new scheduling algorithm for embedded devices using the gem5 simulator. The nature of the project later changed entirely and I am now working on a novel resource allocation and scheduling policy in the context of fog computing.
 
   - title: Education
     layout: list
