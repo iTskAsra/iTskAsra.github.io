@@ -65,7 +65,7 @@ content:
   - title: Education
     layout: list
     content:
-    - layout: left
+      - layout: left
         title: Technical University of Darmstadt
         caption: 2025 - Ongoing
         sub_title: Master of Science in Computer Science
