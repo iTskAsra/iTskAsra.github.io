@@ -54,6 +54,10 @@ content:
     layout: list
     content:
       - layout: left
+        title: Sharif HPC
+        role: Intern
+        description: Worked with a team on developing a functional Server BMC for Asrock systems.
+      - layout: left
         title: Quera
         role: Student
         description: Enrolled in a comprehensive PHP course offered by Quera, a prominent online platform for Iranian developers.
