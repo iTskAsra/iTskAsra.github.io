@@ -28,7 +28,7 @@ additional_links:
 # About Section
 about_profile_image: images/profile.jpg
 about_content: | 
-  I am an undergraduate BSc student at Sharif University of Technology. My primary research interests encompass a range of topics including IoT, Fog Computing, Formal Methods, Computer Networks, Systems, and Distributed Computing.
+  I am a Masters student in Computer Science at Technical University of Darmstadt, and received my Bachelor of Science in Computer Engineering from Sharif. My main research interests are Cloud and Edge Computing, IoT, Computer Networks and Cyber-Security and Embedded Computing.
 
 content:
   - title: Projects
@@ -65,16 +65,21 @@ content:
   - title: Education
     layout: list
     content:
+    - layout: left
+        title: Technical University of Darmstadt
+        caption: 2025 - Ongoing
+        sub_title: Master of Science in Computer Science
+        description: Pursuing a M.Sc. in Computer Science at Technical University of Darmstadt
       - layout: left
         title: Sharif University of Technology
         caption: 2019 - 2024
-        sub_title: BSc in Computer Engineering (CE)
-        description: Pursuing a BSc in Computer Engineering at Sharif University of Technology, one of the premier institutions in the region. Achieved a commendable GPA of 15.87/20, reflecting dedication and academic excellence.
+        sub_title: Bachelor of Science in Computer Engineering (CE)
+        description: Received my B.Sc. in Computer Engineering at Sharif University of Technology, one of the premier institutions in the region. Achieved a commendable GPA of 16.16/20, reflecting dedication and academic excellence.
       - layout: left
         title: Shahid Ejeyi Highschool, Organization of Exceptional Talents
         caption: 2016 - 2019
         sub_title: High School Diploma
-        description: Completed high school education at Shahid Ejeyi Highschool under the Organization of Exceptional Talents. Graduated with an outstanding GPA of 18.8/20, showcasing academic prowess and commitment.
+        description: Completed high school education at Shahid Ejeyi Highschool under the Organization of Exceptional Talents. Graduated with an outstanding GPA of 19.54/20, showcasing academic prowess and commitment.
 
   - title: A Little More About Me
     layout: text
